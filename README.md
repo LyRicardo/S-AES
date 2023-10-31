@@ -3,21 +3,21 @@
 
 ## 运行结果
 1.基础输入
-！[](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/1.png)
-! [](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/2.png)
-! [](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/3.png)
-! [](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/4.png)
+![](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/1.png)
+![](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/2.png)
+![](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/3.png)
+![](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/4.png)
 2.拓展输入
-! [](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/5.png)
-! [](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/6.png)
+![](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/5.png)
+![](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/6.png)
 3.双重加密
-! [](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/7.png)
+![](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/7.png)
 4.中间相遇攻击
 未实现
 5.三重加密
-! [](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/8.png)
+![](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/8.png)
 6.CBC密码分组链
-! [](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/9.png)
+![](https://lyricardo.oss-cn-chengdu.aliyuncs.com/S-AES/9.png)
 7.组间测试
 已和朱清杨、邓怡杰组完成测试并通过
 
